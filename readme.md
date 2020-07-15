@@ -9,6 +9,19 @@ this project is helpful for deep learning projects.
 - pycharm
 - python 3.9
 
+Project Organization
+------------
+
+    ├── README.md          
+    ├── Chromedriver.exe
+    ├── requirement.txt
+    ├──Scrapper.py   
+    
+
+--------
+
+
+
 ## How to use?
 - download the repo
 - pip install -r requirements.txt
@@ -20,45 +33,3 @@ Shubendu Biswas
 
 ## Acknowledgments
 iNeuron
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
