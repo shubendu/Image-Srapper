@@ -95,7 +95,7 @@ def search_and_download(search_term: str, driver_path: str, target_path='./image
 
 
 DRIVER_PATH = './chromedriver'
-search_term = 'penny nude'
+search_term = 'snake'
 # num of images you can pass it from here  by default it's 10 if you are not passing
 number_images = 10
 search_and_download(search_term=search_term, driver_path=DRIVER_PATH,number_images =number_images )
