@@ -27,6 +27,7 @@ Project Organization
 - pip install -r requirements.txt
 - Make sure you have chrome installed and check the version of chrome
 - download chrome driver (same version as your browser) from [here](https://chromedriver.storage.googleapis.com/index.html)
+- run 'python scrapper.py'
 
 ## Authors
 Shubendu Biswas
